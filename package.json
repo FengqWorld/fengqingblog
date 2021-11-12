@@ -16,8 +16,10 @@
   },
   "description": "枫情博客",
   "dependencies": {
+    "vue-canvas-effect": "^0.0.12",
     "vuepress-plugin-auto-sidebar": "^2.3.2",
     "vuepress-plugin-nuggets-style-copy": "^1.0.3",
-    "vuepress-plugin-permalink-pinyin": "^1.0.0"
+    "vuepress-plugin-permalink-pinyin": "^1.0.0",
+    "vuepress-plugin-ribbon-animation": "^1.1.3"
   }
 }
